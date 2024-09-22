@@ -34,7 +34,7 @@ app.post('/bfhl', (req, res) => {
   });
 
   const fileValid = file_b64 ? true : false;
-  const user_id = "your_fullname_ddmmyyyy";
+  const user_id = "Abhishek_Joshi_22092024";
 
   // Dummy file MIME type and size logic for now
   let file_mime_type = "image/png";
